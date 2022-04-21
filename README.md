@@ -1,5 +1,5 @@
 # Student Profile
-Web development repository for CSC443. Will be mainly consist of PHP code.
+Web development repository for CSC443. Created as a test repo.
 
 ## Page Preview
 All of the files in the [public folder](/public) is *publicly* available for preview on [this website](https://webdev.alzhahir.com).
